@@ -9,28 +9,28 @@ const videos = [{
     thumbnail: 'image/ltt-thumbnail.PNG',
     duration: '15:34',
     logo: 'image/ltt-logo.svg',
-    title: "I'm Scared of my viewer's MESS - The Setup Docto",
+    title: "I'm Scared of my viewer's MESS - The Setup Doctor",
     channelName: 'Linus Tech Tips',
     stats: '1.2M views &middot; 11 days ago'
 }, {
     thumbnail: 'image/ltt-thumbnail.PNG',
     duration: '14:34',
     logo: 'image/ltt-logo.svg',
-    title: "I'm Scared of my viewer's MESS - The Setup Doct",
+    title: "I'm Scared of my viewer's MESS - The Setup Doctor",
     channelName: 'Linus Tech Tips',
     stats: '1.2M views &middot; 11 days ago'
 }, {
     thumbnail: 'image/ltt-thumbnail.PNG',
     duration: '13:34',
     logo: 'image/ltt-logo.svg',
-    title: "I'm Scared of my viewer's MESS - The Setup Doc",
+    title: "I'm Scared of my viewer's MESS - The Setup Doctor",
     channelName: 'Linus Tech Tips',
     stats: '1.2M views &middot; 11 days ago'
 }, {
     thumbnail: 'image/ltt-thumbnail.PNG',
     duration: '12:34',
     logo: 'image/ltt-logo.svg',
-    title: "I'm Scared of my viewer's MESS - The Setup Do",
+    title: "I'm Scared of my viewer's MESS - The Setup Doctor",
     channelName: 'Linus Tech Tips',
     stats: '1.2M views &middot; 11 days ago'
 }];
